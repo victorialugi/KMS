@@ -1,4 +1,4 @@
-# KMS и статический сайт в Object Storage
+# Домашнее задание к занятию "`Безопасность в облачных провайдерах`" - `Лугинина Виктория`
 
 ## Что сделано
 
@@ -23,8 +23,8 @@
 
 Сайт:
 
-![site](screenshots/site.png)
+![1.png](https://github.com/victorialugi/KMS/blob/main/1.png)
 
 Шифрование KMS:
 
-![kms](screenshots/kms.png)
+![2.png](https://github.com/victorialugi/KMS/blob/main/2.png)
